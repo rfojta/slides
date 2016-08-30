@@ -1,0 +1,2 @@
+*  Prague DevOps Meetup slides
+This repository contains slides and links for Prague Devops Meetup group talks.
